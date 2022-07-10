@@ -11,3 +11,5 @@ print function -
 {
   print("Hello")
 }'
+
+ `code`
