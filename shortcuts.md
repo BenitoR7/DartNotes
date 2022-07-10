@@ -1,7 +1,7 @@
 Markdown - https://www.markdownguide.org/cheat-sheet/
 ### VSCode
 
-
+- Debug Console (↑ +  ⌘ + U)
 
 ### Command Line
 
