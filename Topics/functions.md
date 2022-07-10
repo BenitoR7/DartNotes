@@ -1,15 +1,15 @@
 main function -
 
-'void main() {
+`void main() {
   
-}'
+}`
 
 print function - 
 
-'void main() 
+'}'
+
+ `void main() 
 
 {
   print("Hello")
-}'
-
- `code`
+}`
