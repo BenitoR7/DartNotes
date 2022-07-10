@@ -2,6 +2,7 @@ Markdown - https://www.markdownguide.org/cheat-sheet/
 ### VSCode
 
 - Debug Console (↑ +  ⌘ + U)
+- Open the Command Palette (⌘ + Shift + P) 
 
 ### Command Line
 
@@ -16,3 +17,5 @@ Markdown - https://www.markdownguide.org/cheat-sheet/
 -  pub         - package manager.
 -  run         - runs dart program via virtual machine or $  dart bin/project.dart for project. 
 -  test        - for unit testing.
+- $ dart create --template console-full hello-dart-project - creates larger project with lib and test folder.
+-  
