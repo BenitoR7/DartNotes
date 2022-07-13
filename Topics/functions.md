@@ -12,5 +12,5 @@ print function -
 
 Getter and setter methods are the class methods used to manipulate the data of the class fields.
 
-Getter is used to read or get the data of the class field 
+Getter is used to read or get the data of the class field (also known as computed variables.)
 - whereas setter is used to set the data of the class field to some variable.
