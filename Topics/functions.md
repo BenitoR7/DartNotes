@@ -18,6 +18,6 @@ Getter is used to read or get the data of the class field (also known as compute
 
 Higher order methods - 🔎 (take functions as parameters)
 
-map
-filter
-reduce
+- map (very similar to `forEach` in that it loops through every element of the list. 
+- filter
+- reduce
